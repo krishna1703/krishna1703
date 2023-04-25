@@ -15,7 +15,7 @@ src="https://img.freepik.com/premium-vector/boy-coding-designing-with-pc-illustr
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/krishna-kumar-09b5b8211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-kumar-09b5b8211/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krishna-kumar-0a415a25a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-kumar-09b5b8211/" height="30" width="40" /></a>
 <a href="https://instagram.com/krishnakumar9065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishnakumar9065" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/krishnasharmag30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/krishnasharmag30" height="30" width="40" /></a>
 </p>
